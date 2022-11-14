@@ -11,8 +11,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,nodejs,express,ps" />
   </a>
 </p>
-<hr>
-<h3 align="center">My stack(tools && languages):</h3>
+<h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,nodejs,express,ps" />
