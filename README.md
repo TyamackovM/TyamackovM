@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, i'm Maksim</h2>
+<h2 align="center">Hi there 👋, I'm Maksim</h2>
 🔭 I’m currently studying at <a href="https://github.com/Elbrus-Bootcamp">Elbrus Bootcamp</a>
 <br>
 <br>
