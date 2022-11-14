@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://t.me/TyamackovM>
-    <img width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" />
+    <img width="100" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" />
   </a>
 </p>
  
