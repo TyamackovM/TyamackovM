@@ -1,4 +1,4 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif](https://indoanalytica.com/static/images/banner-2.gif)
 <h2 align="center">Hi there 👋, I'm Maksim</h2>
 <h3 align="center">FullStack JavaScript Developer<h3>
 <br>
