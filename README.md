@@ -9,7 +9,7 @@
 <h3 align="center">My stack(tools && languages):</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,next,tailwind,postgres,nodejs,express,ps,babylonjs,babylon" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,next,tailwind,postgres,nodejs,express,threejs,ps" />
   </a>
 </p>
 <h3 align="center">Connect with me:</h3>
