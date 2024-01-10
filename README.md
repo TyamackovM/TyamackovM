@@ -14,7 +14,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/TyamackovM" target="blank"><img align="center" src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" alt="tyamackovm" /></a>
+<a href="https://t.me/TyamackovM" target="blank"><img align="center" src="https://skillicons.dev/icons?i=in" alt="tyamackovm" /></a>
 <a href="https://www.linkedin.com/in/tyamackovm/" target="blank"><img align="center" src="https://camo.githubusercontent.com/e2cb3e9b628d934cc325efa9dd437bcf60d947c47e98f6341ae8d2d594a6c600/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2d322d2d76312e706e67" alt="tyamackovm" /></a>
 </p>
  
