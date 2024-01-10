@@ -14,7 +14,9 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/TyamackovM" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="tyamackovm" /></a>
+<a href="https://t.me/TyamackovM">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="tyamackovm"/>
+</a>
 <a href="https://www.linkedin.com/in/tyamackovm/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="tyamackovm" /></a>
 </p>
  
