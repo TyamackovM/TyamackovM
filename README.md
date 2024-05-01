@@ -5,7 +5,7 @@
 <br>
   <div align="center">
     </div>
-<h3 align="center">My stack(tools && languages):</h3>
+<h3 align="center">My stack(tools && languages): </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,next,tailwind,postgres,nodejs,express,threejs,ps" />
