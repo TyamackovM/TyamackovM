@@ -18,7 +18,7 @@
 </a>
 <a href="https://www.linkedin.com/in/tyamackovm/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"  alt="tyamackovm" /></a>
 </p>
- 
+  
 
  
 <!--
